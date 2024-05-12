@@ -1,0 +1,1 @@
+LoadPOFile("finnish.po", "fi")
