@@ -4,7 +4,7 @@ description = "Älä näänny, yhdessä!\n\n"..
               "Suomenkielinen kielipaketti Don't Starve Togetheriin, joka tähtää (jokseenkin) äärimmäiseen tarkkuuteen ja alkuperäisen tekstityylin myötäilyyn.\n\n"..
               "Nauttikaa!"
 author = "AceHand"
-version = "0.5.1"
+version = "0.5.4"
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
 api_version = 10

@@ -1,10 +1,11 @@
 -- All the basic information
 name = "Finnish Translation Pack"
 description = "Älä näänny, yhdessä!\n\n"..
-              "Suomenkielinen kielipaketti Don't Starve Togetheriin, joka tähtää äärimmäiseen tarkkuuteen ja alkuperäisen tekstityylin myötäilyyn.\n\n"..
-              "Nauttikaa!"
+              "Suomenkielinen kielipaketti Don't Starve Togetheriin, joka tähtää (jokseenkin) äärimmäiseen tarkkuuteen ja alkuperäisen tekstityylin myötäilyyn.\n\n"..
+              "Nauttikaa!\n\n"..
+              "HUOM! Tämä on modin VANHENTUNUT palvelinversio."
 author = "AceHand"
-version = "0.5.1"
+version = "0.5.4"
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
 api_version = 10
